@@ -2,7 +2,7 @@
 
 Welcome to FTNI's Public GitHub Repository!
 
-## About FTNI
+## About Us
 
 **Hi. We're FTNI.**
 
